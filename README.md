@@ -5,3 +5,4 @@ of git.
 
 ## Involved files
 - a.txt
+- c.txt
