@@ -3,6 +3,7 @@
 The project which is going to destroy the world using the power
 of git.
 
-## Involved files
+## Involved Files
 - a.txt
+- b.txt
 - c.txt
